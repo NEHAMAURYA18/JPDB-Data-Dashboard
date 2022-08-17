@@ -20,7 +20,13 @@ When Clicking on edit through Table, the user navigates to form page with the op
 1. Netbeans IDE 8.2
 
 ## HARDWARE REQUIREMENT SPECIFICATION:
-1. 4-8 GB RAm
+1. 4-8 GB RAM
+
+# Resources
+1.Home page: https://login2explore.com
+2.Register to use JsonPowerDB: http://api.login2explore.com
+3.JsonPowerDB Help: https://login2explore.com/jpdb/docs.html
+4.AdminLTE v3.2.0 :https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.2.0
 
 # IMPLENTATION VIDEO:
 
