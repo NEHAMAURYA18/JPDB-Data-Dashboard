@@ -26,3 +26,5 @@ When Clicking on edit through Table, the user navigates to form page with the op
 
 
 # IMPLEMENTATION IMAGES:
+![image](https://user-images.githubusercontent.com/85781836/185060132-bd8615ff-28cc-4cee-ae5c-8a7fb767a0d4.png)
+![image](https://user-images.githubusercontent.com/85781836/185060260-63fd055e-067b-47ea-b045-f036e0590bc5.png)
