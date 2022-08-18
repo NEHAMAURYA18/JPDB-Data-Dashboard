@@ -29,7 +29,7 @@ When Clicking on edit through Table, the user navigates to form page with the op
 4.AdminLTE v3.2.0 :https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.2.0
 
 # IMPLENTATION VIDEO:
-
+[Recording_1660731946259.webm](https://user-images.githubusercontent.com/85781836/185373307-b798fbca-3461-4bd0-af7b-e00fd0954205.webm)
 
 # IMPLEMENTATION IMAGES:
 ![image](https://user-images.githubusercontent.com/85781836/185060132-bd8615ff-28cc-4cee-ae5c-8a7fb767a0d4.png)
